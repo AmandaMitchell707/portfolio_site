@@ -2271,7 +2271,14 @@ input, select, textarea {
 
 		.icon > .label {
 			display: none;
-		}
+    }
+    
+.piano {
+  background-image: url(../../images/piano_icon.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
 
 /* List */
 
