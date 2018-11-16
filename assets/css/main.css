@@ -2278,8 +2278,11 @@ input, select, textarea {
 }
 
 .kitchen {
-  background-image: url(images/kitchen_icon.jpeg);
+  background-image: url(images/kitchen_icon.jpg);
+}
 
+.skate {
+  background-image: url(images/skate_icon.png);
 }
 
 .my-projects {
