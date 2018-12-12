@@ -3307,6 +3307,6 @@ input, select, textarea {
   width: 30px;
   height: auto;
   position: absolute;
-  vertical-align: middle;
+  vertical-align: bottom;
   padding-left: 10px;
 }
