@@ -3301,4 +3301,10 @@ input, select, textarea {
 					display: none;
 				}
 
-	}
+  }
+  
+.logo {
+  width: 30px;
+  height: auto;
+  position: absolute;
+}
