@@ -3307,4 +3307,5 @@ input, select, textarea {
   width: 30px;
   height: auto;
   position: absolute;
+  padding-left: 10px;
 }
